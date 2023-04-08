@@ -12,6 +12,10 @@ Clone the project
   git clone https://github.com/Younus-Saberi/terraform-script-aws
 ```
 
+## Before running below commands, Please Configure Your AWS Secrets and AWS Account ID using AWS CLI
+## I have configured and ran with the same method
+## Otherwise add your AWS Secrets and Account ID in Terrform Provider Block in the file
+
 Run and apply terraforms script as a root directory
 "Easiest and Fast Way (But Not recommended)"
 ```hcl
