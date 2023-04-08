@@ -88,13 +88,7 @@ If you have any feedback, please reach out to us at younussaberi@gmail.com
 
 
 ## Screenshots
+<img src="res/p1.png">
+<img src="res/p2.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Demo
-
-Insert gif or link to demo
 
